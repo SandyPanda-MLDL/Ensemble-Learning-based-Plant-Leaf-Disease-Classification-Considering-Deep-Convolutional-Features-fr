@@ -1,8 +1,7 @@
-# The proposed deep Learning based plant disease classification got accepted in IEEE Conference on Information and Communication Technology 2022 organized by Indian Institute of Information Technology and Management Gwalior. 
+ The proposed deep Learning based plant disease classification got accepted in IEEE Conference on Information and Communication Technology 2022 organized by Indian Institute of Information Technology and Management Gwalior. 
 
 
 
-I would like to thank Ankit Vishwakarma for collaborating on this project alongside me. A huge thanks to Mr. Sandipan Dhar and Dr. Nanda Lulal Jana and for their unending support and invaluable guidance throughout the duration of this project.
  
 
 Code link: https://github.com/SandyPanda-MLDL
