@@ -2,9 +2,6 @@
 
 
 
- 
-
-Code link: https://github.com/SandyPanda-MLDL
 
 # Ensemble-Learning-based-Plant-Leaf-Disease-Classification-Considering-Deep-Convolutional-Features-fr
 Ensemble Learning based Plant Leaf Disease Classification Considering Deep Convolutional Features from Pre-trained CNN
